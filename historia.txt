@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Mañana nos enfocaremos en su vida laboral.
 
 TEST => Aqui probamos un nuevo elemento.
+=======
+Mañana nos enfocaremos en su vida laboral
+Es entonces cuando seguimos trabajando
+>>>>>>> 46bc1d737336d3a00b3fa59dc80dbb6dca1ebc4e
