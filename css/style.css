@@ -6,7 +6,7 @@ body {
 }
 
 #cabecera {
-  background: tomato;
+  background: #aa8 !important;
   color: white;
   margin: 0;
   padding: 0.5em;
